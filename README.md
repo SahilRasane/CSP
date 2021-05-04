@@ -1,0 +1,2 @@
+# Constraint Satisfaction Problem- Map Coloring
+A k-coloring of a map is an assignment of k colors, one to each country, in such a way that no two countries sharing a border have the same color. This problem can be translated to a constraint graph. A coloring of a graph G assigns a color to each vertex of G, with the restriction that two adjacent vertices never have the same color. The chromatic number of G, written χ(G), is the smallest number of colors needed to color G.
